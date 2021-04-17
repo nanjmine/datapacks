@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:potato"
+		},
+		"title": "disc4",
+		"description": "disc4",
+		"frame": "task",
+		"announce_to_chat":false,
+		"show_toast":false,
+		"hidden": true
+	},
+	"criteria":{
+		"samurai":{
+			"trigger":"minecraft:consume_item",
+			"conditions":{
+				"item":{
+					"item": "minecraft:potato",
+					"nbt": "{Sound:4}"
+				}
+			}
+		}
+	},
+	"rewards":{
+		"function":"rlaiy:rlaiy_function/rlaiy_sounds/rlaiy_disc4"
+	}
+}

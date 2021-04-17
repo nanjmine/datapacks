@@ -1,0 +1,257 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:101}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.101(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:102}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.102(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:103}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.103(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:104}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.104(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:105}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.105(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:106}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.106(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:107}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.107(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:108}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.108(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:109}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.109(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:110}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.110(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:111}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.111(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:112}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.112(コモン)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:113}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.113(コモン)"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

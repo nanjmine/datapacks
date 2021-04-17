@@ -1,0 +1,10 @@
+execute as @e[type=minecraft:arrow,distance=..100] at @s unless score @s Xtest matches -1000000000..1000000000 store result score @s Xtest run data get entity @s Motion[0] 1000000
+execute as @e[type=minecraft:arrow,distance=..100] at @s unless score @s Ytest matches -1000000000..1000000000 store result score @s Ytest run data get entity @s Motion[1] 1000000
+execute as @e[type=minecraft:arrow,distance=..100] at @s unless score @s Ztest matches -1000000000..1000000000 store result score @s Ztest run data get entity @s Motion[2] 1000000
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:0b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[0] double 0.000001 run scoreboard players get @s Xtest
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:0b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[1] double 0.000001 run scoreboard players get @s Ytest
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:0b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[2] double 0.000001 run scoreboard players get @s Ztest
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:1b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[0] double -0.000001 run scoreboard players operation @s Xtest *= !-1! Xtest 
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:1b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[1] double -0.000001 run scoreboard players operation @s Ytest *= !-1! Xtest 
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:1b}] if score @s Xtest matches -1000000000..1000000000 store result entity @s Motion[2] double -0.000001 run scoreboard players operation @s Ztest *= !-1! Xtest 
+execute as @e[type=minecraft:arrow,distance=..100] at @s if entity @s[nbt={inGround:1b}] run data merge entity @s {inGround:0b}

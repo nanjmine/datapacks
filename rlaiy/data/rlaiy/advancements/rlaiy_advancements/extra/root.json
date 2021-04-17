@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bedrock"
+		},
+		"title": "rlaiyの進捗",
+		"description": "鋭意制作中",
+		"frame": "task",
+		"announce_to_chat":false,
+		"show_toast":false,
+		"hidden": true,
+		"background": "minecraft:textures/block/black_concrete.png"
+	},
+	"criteria":{
+		"ex":{
+			"trigger":"minecraft:changed_dimension",
+			"conditions": {
+				"to": "minecraft:the_end"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"ex"
+		]
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 60,
+					"name": "rlaiy:fake_block"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 20,
+					"name": "rlaiy:relic_swords"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 20,
+					"name": "rlaiy:itemtest"
+				}
+			]
+		}
+	]
+}

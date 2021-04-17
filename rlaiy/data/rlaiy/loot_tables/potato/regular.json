@@ -1,0 +1,1378 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"001 栗山 巧（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"002 外崎修汰（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"003 源田壮亮（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"004 髙橋光成（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"005 増田達至（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"006 Z.ニール（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"007 松田宣浩（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"008 今宮健太（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"009 柳田悠岐（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"010 甲斐拓也（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"011 甲斐野 央（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"012 周東佑京（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"013 浅村栄斗（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"014 茂木栄五郎（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"015 岸 孝之（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"016 則本昂大（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"017 銀次（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"018 島内宏明（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"019 荻野貴司（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"020 中村奨吾（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"021 石川 歩（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"022 種市篤暉（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"023 井上晴哉（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"024 益田直也（ロッテ）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"025 大田泰示（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"026 中田 翔（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"027 西川遥輝（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"028 上沢直之（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"029 金子弌大（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"030 清宮幸太郎（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"031 安達了一（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"032 福田周平（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"033 大城滉二（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"034 吉田正尚（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"035 若月健矢（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"036 中川圭太（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"037 丸 佳浩（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"038 亀井善行（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"039 菅野智之（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"040 小林誠司（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"041 岡本和真（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"042 中川皓太（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"043 J.ロペス（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"044 神里和毅（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"045 今永昇太（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"046 上茶谷大河（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"047 佐野恵太（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"048 宮﨑敏郎（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"049 糸井嘉男（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"050 福留孝介（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"051 髙山 俊（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"052 西 勇輝（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"053 藤川球児（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"054 糸原健斗（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"055 長野久義（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"056 大瀬良大地（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"057 會澤 翼（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"058 菊池涼介（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"059 松山竜平（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"060 西川龍馬（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"061 京田陽太（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"062 高橋周平（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"063 阿部寿樹（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"064 平田良介（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"065 柳 裕也（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"066 福田永将（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"067 山田哲人（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"068 石川雅規（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"069 青木宣親（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"070 小川泰弘（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"071 梅野雄吾（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"072 太田賢吾（ヤクルト）","color":"blue"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

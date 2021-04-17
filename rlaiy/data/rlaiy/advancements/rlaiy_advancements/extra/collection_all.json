@@ -1,0 +1,343 @@
+{
+	"parent": "rlaiy:rlaiy_advancements/extra/collection",
+	"display": {
+		"icon": {
+			"item": "minecraft:glistering_melon_slice",
+			"nbt": "{CustomModelData:2}"
+		},
+		"title": "稀代の収集家",
+		"description": "博物館を開けるかも？",
+		"frame": "task",
+		"announce_to_chat":true,
+		"show_toast":true,
+		"hidden": false
+	},
+	"criteria":{
+		"1":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:1}"
+				}
+				]
+			}
+		},
+		"2":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:2}"
+				}
+				]
+			}
+		},
+		"3":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:3}"
+				}
+				]
+			}
+		},
+		"4":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:4}"
+				}
+				]
+			}
+		},
+		"5":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:5}"
+				}
+				]
+			}
+		},
+		"6":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:6}"
+				}
+				]
+			}
+		},
+		"7":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:7}"
+				}
+				]
+			}
+		},
+		"8":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:8}"
+				}
+				]
+			}
+		},
+		"9":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:9}"
+				}
+				]
+			}
+		},
+		"10":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:10}"
+				}
+				]
+			}
+		},
+		"11":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:11}"
+				}
+				]
+			}
+		},
+		"12":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:12}"
+				}
+				]
+			}
+		},
+		"13":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:13}"
+				}
+				]
+			}
+		},
+		"14":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:14}"
+				}
+				]
+			}
+		},
+		"15":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:15}"
+				}
+				]
+			}
+		},
+		"16":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:16}"
+				}
+				]
+			}
+		},
+		"17":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:17}"
+				}
+				]
+			}
+		},
+		"18":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:18}"
+				}
+				]
+			}
+		},
+		"19":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:19}"
+				}
+				]
+			}
+		},
+		"20":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:20}"
+				}
+				]
+			}
+		},
+		"21":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:21}"
+				}
+				]
+			}
+		},
+		"22":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:22}"
+				}
+				]
+			}
+		},
+		"23":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:23}"
+				}
+				]
+			}
+		},
+		"24":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:24}"
+				}
+				]
+			}
+		},
+		"25":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:25}"
+				}
+				]
+			}
+		},
+		"26":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:26}"
+				}
+				]
+			}
+		},
+		"27":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:glistering_melon_slice",
+					"nbt": "{CustomModelData:27}"
+				}
+				]
+			}
+		}
+	},
+	"requirements": [
+		["1"],
+		["2"],
+		["3"],
+		["4"],
+		["5"],
+		["6"],
+		["7"],
+		["8"],
+		["9"],
+		["10"],
+		["11"],
+		["12"],
+		["13"],
+		["14"],
+		["15"],
+		["16"],
+		["17"],
+		["18"],
+		["19"],
+		["20"],
+		["21"],
+		["22"],
+		["23"],
+		["24"],
+		["25"],
+		["26"],
+		["27"]
+	]
+}

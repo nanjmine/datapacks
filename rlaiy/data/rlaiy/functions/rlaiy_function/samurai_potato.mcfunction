@@ -1,0 +1,2 @@
+loot give @a[advancements={rlaiy:rlaiy_advancements/samurai_potato=true}] loot rlaiy:samurai_potato
+advancement revoke @a[advancements={rlaiy:rlaiy_advancements/samurai_potato=true}] only rlaiy:rlaiy_advancements/samurai_potato

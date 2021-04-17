@@ -1,0 +1,846 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:13}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-01 稲葉篤紀","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-02 今永昇太","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-03 岩貞祐太","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-04 梅野雄吾","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-05 笠原祥太郎","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-06 佐藤  優","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-07 高梨雄平","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-08 高橋  礼","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-09 田口麗斗","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-10 成田  翔","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-11 濵口遥大","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-12 原  樹理","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-13 松永昂大","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-14 三上朋也","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-15 森  唯斗","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-16 森原康平","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-17 山岡泰輔","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-18 山﨑康晃","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-19 山本由伸","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-20 會澤  翼","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-21 甲斐拓也","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-22 小林誠司","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-23 田村龍弘","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-24 森  友哉","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-25 大城滉二","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-26 大山悠輔","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-27 岡本和真","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-28 京田陽太","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-29 源田壮亮","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-30 田中広輔","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-31 外崎修汰","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-32 中村奨吾","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-33 村上宗隆","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-34 山川穂高","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-35 山田哲人","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-36 吉川尚輝","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-37 秋山翔吾","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-38 上林誠知","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-39 近藤健介","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-40 田中和基","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-41 西川遥輝","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-42 野間峻祥","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-43 柳田悠岐","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{Unbreakable:1b,Damage:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"SJ-44 吉田正尚","color":"blue"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

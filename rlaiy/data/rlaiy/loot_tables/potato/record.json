@@ -1,0 +1,181 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:23}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-1 山﨑康晃（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:30}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-2 村上宗隆（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:28}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-3 中村剛也（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:27}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-4 千賀滉大（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:22}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-5 大野雄大（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:31}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-6 近本光司（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:28}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-7 平井克典（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:31}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-8 梅野隆太郎（阪神）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:27}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"TR-9 内川聖一（ソフトバンク）","color":"blue"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

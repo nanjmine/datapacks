@@ -1,0 +1,352 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:25}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:26}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:27}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:28}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:29}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:30}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:31}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:32}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:33}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:34}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:35}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:36}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:37}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:38}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:39}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:40}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:41}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:42}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"朽ちた剣"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

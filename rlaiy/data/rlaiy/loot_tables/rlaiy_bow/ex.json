@@ -1,0 +1,67 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:bow",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:201}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.201:from_IceAndFire(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:bow",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:202}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.202:from_黄昏の森(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:bow",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:203}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.203:from_黄昏の森(エクストラ)"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

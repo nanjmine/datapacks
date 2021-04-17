@@ -1,0 +1,485 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:401}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:402}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:403}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:404}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:405}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:406}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:407}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:408}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:409}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:410}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:411}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:412}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:413}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:414}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:415}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:416}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:417}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:418}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:419}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:420}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:421}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:422}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:423}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:424}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:425}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ニセブロック(額縁用)"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

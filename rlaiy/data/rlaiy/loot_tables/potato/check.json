@@ -1,0 +1,86 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:28}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"C-01 西武：森友哉と増田達至","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:26}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"C-02 巨人：丸 佳浩","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:27}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"C-03 ソフトバンク：日本シリーズ胴上げ","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:23}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"C-04 DeNA：CSサヨナラ勝利","color":"blue"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

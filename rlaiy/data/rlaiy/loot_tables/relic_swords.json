@@ -1,0 +1,295 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.1"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.2"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.3"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.4"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:13}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.5"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:14}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.6"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:16}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.7"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:17}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.8"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:18}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.9"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:19}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.10"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:20}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.11"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:21}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.12"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:22}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.13"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:23}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.14"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:24}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"新ガチャ剣No.15"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 65,
+					"name": "rlaiy:rlaiy_pickaxe/common"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 5,
+					"name": "rlaiy:rlaiy_pickaxe/rare"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 30,
+					"name": "rlaiy:rlaiy_pickaxe/ex"
+				}
+			]
+		}
+	]
+}

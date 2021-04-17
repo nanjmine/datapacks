@@ -1,0 +1,162 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:201}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.201:from_IceAndFire(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:202}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.202:from_ThaumCraft(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:203}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.203:from_ThaumCraft(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:204}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.204:from_黄昏の森(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:205}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.205:from_黄昏の森(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:206}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.206:from_黄昏の森(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:207}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.207:from_Fossil(エクストラ)"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_pickaxe",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:208}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"デザインNo.208:from_ThaumCraft(エクストラ)"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

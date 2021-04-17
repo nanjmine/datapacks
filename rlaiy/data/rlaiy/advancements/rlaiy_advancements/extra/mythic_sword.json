@@ -1,0 +1,237 @@
+{
+	"parent": "rlaiy:rlaiy_advancements/extra/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond_sword",
+			"nbt": "{CustomModelData:25}"
+		},
+		"title": "ボロボロのお宝",
+		"description": "埋まっていた錆びた剣を発掘する",
+		"frame": "task",
+		"announce_to_chat":true,
+		"show_toast":true,
+		"hidden": true
+	},
+	"criteria":{
+		"25":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:25}"
+				}
+				]
+			}
+		},
+		"26":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:26}"
+				}
+				]
+			}
+		},
+		"27":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:27}"
+				}
+				]
+			}
+		},
+		"28":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:28}"
+				}
+				]
+			}
+		},
+		"29":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:29}"
+				}
+				]
+			}
+		},
+		"30":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:30}"
+				}
+				]
+			}
+		},
+		"31":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:31}"
+				}
+				]
+			}
+		},
+		"32":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:32}"
+				}
+				]
+			}
+		},
+		"33":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:33}"
+				}
+				]
+			}
+		},
+		"34":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:34}"
+				}
+				]
+			}
+		},
+		"35":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:35}"
+				}
+				]
+			}
+		},
+		"36":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:36}"
+				}
+				]
+			}
+		},
+		"37":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:37}"
+				}
+				]
+			}
+		},
+		"38":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:38}"
+				}
+				]
+			}
+		},
+		"39":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:39}"
+				}
+				]
+			}
+		},
+		"40":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:40}"
+				}
+				]
+			}
+		},
+		"41":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:41}"
+				}
+				]
+			}
+		},
+		"42":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{CustomModelData:42}"
+				}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"25",
+			"26",
+			"27",
+			"28",
+			"29",
+			"30",
+			"31",
+			"32",
+			"33",
+			"34",
+			"35",
+			"36",
+			"37",
+			"38",
+			"39",
+			"40",
+			"41",
+			"42"
+		]
+	]
+}

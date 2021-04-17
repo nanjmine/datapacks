@@ -1,0 +1,467 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2000}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"魔女のぼうし"}
+						}
+                    ]
+                },
+				{
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2005}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"うさぎの仮面"}
+						}
+                    ]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2006}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のつの（赤）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2007}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のつの（青）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2008}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のつの（白）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2009}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のつの（黒）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2010}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のはね"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2011}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"マミーのほうたい"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2012}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"コウモリくん"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2013}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"さんかくハット１"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2014}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"さんかくハット２"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2015}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ゴーストフェイス"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2016}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"燃えるがいこつ"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2017}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"しがみつくくろねこ"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2018}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"頭にのっかるかぼちゃ"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2019}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"かぼちゃのかかし"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2020}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"十字架"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2021}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のしっぽ（黒）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2022}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"悪魔のしっぽ（赤）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2023}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"死神のかま"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2024}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"墓"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2025}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"墓（フィギュア）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2026}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"十字架（フィギュア）"}
+						}
+					]
+                },
+                {
+					"type": "item",
+					"name": "minecraft:diamond_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2027}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"かぼちゃのかかし（フィギュア）"}
+						}
+					]
+                }
+                
+            ]
+        }
+    ]
+}

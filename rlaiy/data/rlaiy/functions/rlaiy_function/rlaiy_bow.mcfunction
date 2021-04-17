@@ -1,0 +1,2 @@
+loot give @a[distance=0..1,nbt={SelectedItem:{id:"minecraft:diamond",Count:16b}}] loot rlaiy:rlaiy_bow
+clear @a[distance=0..1,nbt={SelectedItem:{id:"minecraft:diamond",Count:16b}}] minecraft:diamond 16

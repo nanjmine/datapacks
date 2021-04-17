@@ -1,0 +1,27 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:potato"
+		},
+		"title": "disc1",
+		"description": "disc1",
+		"frame": "task",
+		"announce_to_chat":false,
+		"show_toast":false,
+		"hidden": true
+	},
+	"criteria":{
+		"samurai":{
+			"trigger":"minecraft:consume_item",
+			"conditions":{
+				"item":{
+					"item": "minecraft:potato",
+					"nbt": "{StopSound:1}"
+				}
+			}
+		}
+	},
+	"rewards":{
+		"function":"rlaiy:rlaiy_function/rlaiy_sounds/rlaiy_disc1_stop"
+	}
+}

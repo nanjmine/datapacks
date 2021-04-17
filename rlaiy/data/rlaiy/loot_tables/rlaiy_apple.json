@@ -1,0 +1,54 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:apple",
+					"weight": 945,
+					"quality": -2,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:apple",
+					"weight": 50,
+					"quality": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:apple",
+					"weight": 5,
+					"quality": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

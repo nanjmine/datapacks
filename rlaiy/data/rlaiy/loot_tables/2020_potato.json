@@ -1,0 +1,40 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"weight": 70,
+					"name": "rlaiy:potato/regular"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 15,
+					"name": "rlaiy:potato/title"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 6,
+					"name": "rlaiy:potato/legend"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 3,
+					"name": "rlaiy:potato/check"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 4,
+					"name": "rlaiy:potato/record"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"weight": 2,
+					"name": "rlaiy:potato/winner"
+				}
+			]
+		}
+	]
+}

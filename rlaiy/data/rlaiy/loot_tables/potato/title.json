@@ -1,0 +1,390 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-1 森 友哉（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-2 高橋 礼（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-3 山本由伸（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-4 山岡泰輔（オリックス）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-5 有原航平（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-6 松井裕樹（楽天）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-7 宮西尚生（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-8 千賀滉大（ソフトバンク）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-9 山川穂高（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-10 中村剛也（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-11 近藤健介（日本ハム）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-12 金子侑司（西武）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-13 坂本勇人（巨人）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-14 村上宗隆（ヤクルト）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-15 大野雄大（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-16 山﨑康晃（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-17 鈴木誠也（広島）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-18 大島洋平（中日）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-19 N.ソト（DeNA）","color":"blue"}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:wooden_sword",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"T-20 近本光司（阪神）","color":"blue"}
+						}
+					]
+				}
+			]
+		}
+	]
+}

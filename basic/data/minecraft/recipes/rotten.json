@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A":{
+            "item": "dirt"
+        },
+        "B":{
+            "item": "rotten_flesh"
+        }
+    },
+    "result": {
+        "item": "clay_ball",
+        "count": 4
+    }
+}

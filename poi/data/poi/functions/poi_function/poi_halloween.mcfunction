@@ -1,0 +1,2 @@
+loot give @a[distance=0..1,nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond",Count:8b}]}] loot poi:poi_halloween
+clear @a[distance=0..1,nbt={Inventory:[{Slot:-106b,id:"minecraft:diamond",Count:8b}]}] minecraft:diamond 8

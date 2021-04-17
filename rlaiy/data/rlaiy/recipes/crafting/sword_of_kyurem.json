@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "#E#",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:packed_ice"
+        },
+        "g": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

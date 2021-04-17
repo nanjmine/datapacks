@@ -1,0 +1,631 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"bonus_rolls":0,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:1}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ブラッククォーツ"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"世にも珍しき黒いクォーツ。"},{"text":"コレクションアイテム 1/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:2}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ルビー"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"とてつもない高値で取引されるという宝石。"},{"text":"コレクションアイテム 2/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:3}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"金色のカギ"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"対となる錠が見つからない謎のカギ。"},{"text":"コレクションアイテム 3/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:4}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"銀の歯車"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"存在しない機械のものとされる部品。"},{"text":"コレクションアイテム 4/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:5}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"黒ずんだ骨"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"ウィザーに侵され黒くなった骨。"},{"text":"コレクションアイテム 5/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:6}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"竜の鱗"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"伝説に登場するドラゴンの鱗。"},{"text":"コレクションアイテム 6/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:7}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ローヤルゼリー"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"栄養価の高い最上級のハチミツ。"},{"text":"コレクションアイテム 7/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:8}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"勝利の盃"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"勝利を祝福する酒が注がれる盃。"},{"text":"コレクションアイテム 8/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:9}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"青い鳥の羽"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"幸せを運ぶという鳥の羽。"},{"text":"コレクションアイテム 9/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:10}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"自由の石塊"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"自由を阻んだという壁の残骸。"},{"text":"コレクションアイテム 10/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:11}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"黒兎の皮"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"不幸の使いとして信じられるウサギの皮。"},{"text":"コレクションアイテム 11/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:12}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"亡国のコイン"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"古の国で使われたという硬貨。"},{"text":"コレクションアイテム 12/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:13}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"知識の翡翠板"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"奇妙な文章が記された宝石の板。"},{"text":"コレクションアイテム 13/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:14}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ゼリー状の物体"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"プルプルした触感の物体。"},{"text":"コレクションアイテム 14/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:15}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"光る竹"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"女の子の出産の際にお守りとして使われる竹。"},{"text":"コレクションアイテム 15/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:16}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"蓬莱の玉の枝"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"宝石の実がなっている金の枝。"},{"text":"コレクションアイテム 16/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:17}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"硝子の心"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"脆く取り扱いに注意が必要なガラスの装飾品。"},{"text":"コレクションアイテム 17/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:18}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ドクツルタケ"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"食用にならない毒キノコ。"},{"text":"コレクションアイテム 18/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:19}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"象牙の書"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"恐ろしい儀式が描かれた書物。"},{"text":"コレクションアイテム 19/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:20}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"小さな鍵"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"神や悪魔についての知識が書かれた本。"},{"text":"コレクションアイテム 20/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:21}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"ミスリル鉱石"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"硬さのあまり加工法の見つからない金属。"},{"text":"コレクションアイテム 21/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:22}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"枯れ果てた苗"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"土に埋まらない、枯れた苗。"},{"text":"コレクションアイテム 22/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:23}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"魚の剥製"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"大昔に存在した魚の標本。"},{"text":"コレクションアイテム 23/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:24}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"覇王の炎"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"内部で紫の炎が燃え盛る珠。"},{"text":"コレクションアイテム 24/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:25}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"運命の糸"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"人と人を結ぶとされる赤い糸。"},{"text":"コレクションアイテム 25/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:26}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"霊界の布"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"強い霊力の込められた布。"},{"text":"コレクションアイテム 26/27"}]
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "minecraft:glistering_melon_slice",
+					"weight": 1,
+					"functions":[
+						{
+							"function": "minecraft:set_count",
+							"count":1
+						},
+						{
+							"function":"set_nbt",
+							"tag":"{CustomModelData:27}"
+						},
+						{
+							"function":"set_name",
+							"name":{"text":"魔神の心臓"}
+						},
+						{
+							"function":"set_lore",
+							"lore":[{"text":"その昔討伐された魔神の臓器。"},{"text":"コレクションアイテム 27/27"}]
+						}
+					]
+				}
+			]
+		}
+	]
+}

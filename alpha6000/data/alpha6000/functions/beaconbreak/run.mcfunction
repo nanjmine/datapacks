@@ -1,0 +1,6 @@
+function alpha6000:observe_red
+function alpha6000:observe_blue
+function alpha6000:observe_green
+function alpha6000:observe_yellow
+function alpha6000:fireball
+#バグあり

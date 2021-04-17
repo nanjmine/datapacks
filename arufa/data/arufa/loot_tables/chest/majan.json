@@ -1,0 +1,1558 @@
+{
+    "pools": [
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9449423815620999
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "一筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9443021766965428
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "二筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9436619718309859
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "三筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9430217669654289
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "四筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 3,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9423815620998719
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "五筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 4,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.941741357234315
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "六筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.941101152368758
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "七筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.940460947503201
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "八筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.939820742637644
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "九筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.939180537772087
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "赤五筒",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.93854033290653
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "一萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9379001280409731
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "二萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9372599231754161
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "三萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9366197183098591
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "四萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 3,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9359795134443022
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "五萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9353393085787451
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "六萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9346991037131882
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "七萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9340588988476312
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "八萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9334186939820742
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "九萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9327784891165173
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "赤五萬",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9321382842509602
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "一索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9314980793854033
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "二索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9308578745198464
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "三索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9302176696542893
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "四索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 3,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9295774647887324
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "五索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9289372599231753
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "六索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9282970550576184
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "七索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9276568501920615
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "八索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9270166453265044
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "九索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9263764404609475
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "赤五索",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9257362355953905
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "東",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9250960307298335
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "南",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9244558258642765
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "西",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9238156209987195
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "北",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9231754161331626
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "白",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9225352112676056
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "發",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        },
+        {
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 1,
+                    "functions": [
+                         {
+                            "function": "minecraft:set_damage",
+                            "damage": 0.9218950064020486
+                          },
+                          {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{HideFlags:63b,
+                                     Unbreakable:1b}"
+                          },
+                          {
+                            "function": "minecraft:set_name",
+                            "name": {
+                               "text": "中",
+                               "italic": "false"
+                               }
+                           },
+                         {
+                            "function": "minecraft:set_attributes",
+                            "modifiers": [
+                                {
+                                    "attribute": "generic.attackDamage",
+                                    "name": "power",
+                                    "amount": -10,
+                                    "operation": "addition",
+                                    "slot": [
+                                        "mainhand"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                 }
+            ]
+        }
+      ]
+}

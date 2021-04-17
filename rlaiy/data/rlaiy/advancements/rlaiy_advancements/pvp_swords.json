@@ -1,0 +1,33 @@
+{
+	"parent": "rlaiy:rlaiy_advancements/extra/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond_sword",
+			"nbt": "{CustomModelData:1}"
+		},
+		"title": "勇者があらわれた",
+		"description": "みんなで倒してしまおう！",
+		"frame": "task",
+		"announce_to_chat":true,
+		"show_toast":true,
+		"hidden": true
+	},
+	"criteria":{
+		"1":{
+			"trigger":"minecraft:inventory_changed",
+			"conditions":{
+				"items":[
+				{
+					"item": "minecraft:diamond_sword",
+					"nbt": "{pvpsword:1}"
+				}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"1"
+		]
+	]
+}

@@ -1,0 +1,2 @@
+loot give @a[advancements={rlaiy:rlaiy_advancements/silver_apple=true}] loot rlaiy:relic_swords
+advancement revoke @a[advancements={rlaiy:rlaiy_advancements/silver_apple=true}] only rlaiy:rlaiy_advancements/silver_apple

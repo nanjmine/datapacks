@@ -1,0 +1,31 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:potato"
+		},
+		"title": "雪合戦用",
+		"description": "雪合戦の雪玉に当たる",
+		"frame": "task",
+		"announce_to_chat":false,
+		"show_toast":false,
+		"hidden": true
+	},
+	"criteria": {
+		"example": {
+			"trigger": "minecraft:entity_hurt_player",
+			"conditions": {
+				"damage": {
+					"type": {
+						"direct_entity": {
+							"type": "minecraft:snowball",
+							"nbt": "{Item:{tag:{display:{Name:'{\"text\":\"雪合戦用雪玉\"}'}}}}"
+						}
+					}
+				}
+			}
+		}
+	},
+	"rewards":{
+		"function":"rlaiy:rlaiy_function/snowball"
+	}
+}

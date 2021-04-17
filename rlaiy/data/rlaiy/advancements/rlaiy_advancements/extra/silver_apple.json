@@ -1,0 +1,26 @@
+{
+	"parent": "rlaiy:rlaiy_advancements/extra/root",
+	"display": {
+		"icon": {
+			"item": "minecraft:apple",
+			"nbt": "{CustomModelData:3}"
+		},
+		"title": "幸運の銀リンゴ",
+		"description": "銀のリンゴを見つけて食べる",
+		"frame": "task",
+		"announce_to_chat":true,
+		"show_toast":true,
+		"hidden": true
+	},
+	"criteria":{
+		"ex":{
+			"trigger":"minecraft:consume_item",
+			"conditions":{
+				"item":{
+					"item": "minecraft:apple",
+					"nbt": "{CustomModelData:3}"
+				}
+			}
+		}
+	}
+}
